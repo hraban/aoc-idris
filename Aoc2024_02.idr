@@ -1,3 +1,7 @@
+-- Copyright © 2024  Hraban Luyat & Fée Elders
+--
+-- Licensed under the AGPL, v3 only. See LICENSE file.
+
 -- sandbox for aoc 2024 day 2
 
 module Aoc2024_02
